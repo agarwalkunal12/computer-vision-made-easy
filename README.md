@@ -6,7 +6,7 @@ Each folder matches one lesson. The lesson explains the idea; the code here lets
 
 | # | Lesson | Code |
 |---|---|---|
-| 1 | [An image is just a grid of numbers](https://computervisionmadeeasy.com/lessons/an-image-is-just-numbers.html) | [01-an-image-is-just-numbers](01-an-image-is-just-numbers/) |
+| 1 | [An image is just a grid of numbers](https://computervisionmadeeasy.com/lessons/what-is-a-pixel/) | [01-what-is-a-pixel](01-what-is-a-pixel/) |
 
 More folders are added as lessons are published.
 

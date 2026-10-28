@@ -1,6 +1,6 @@
 # Lesson 1: An image is just a grid of numbers
 
-Code for the lesson at [computervisionmadeeasy.com](https://computervisionmadeeasy.com/lessons/an-image-is-just-numbers.html).
+Code for the lesson at [computervisionmadeeasy.com](https://computervisionmadeeasy.com/lessons/what-is-a-pixel/).
 
 Loads a photo as a grayscale grid, prints its shape and data type, reads one pixel, and shows the difference between OpenCV’s clipping addition and NumPy’s wrapping addition.
 
